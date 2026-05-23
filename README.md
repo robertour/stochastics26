@@ -1,2 +1,1 @@
-# stochastic26_solutions
-solutions for stochastic 2026
+# Stochastic 2026
